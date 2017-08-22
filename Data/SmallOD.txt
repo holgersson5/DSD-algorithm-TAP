@@ -1,0 +1,5 @@
+c
+c Project:       Examensarbete                             
+t matrices
+a matrix=Small      0 MAXTIMME 94 KAL                           
+0 3:500.0
